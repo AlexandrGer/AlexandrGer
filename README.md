@@ -18,6 +18,9 @@
 <h2>:speech_balloon:Мои контакты:</h2>
   
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<a href='https://t.me/A1exandrGer'>
+<img src='./icons/Telegram.png'>
+</a>
 
 
 <h2>:fire:Немного статистики о моём GitHub:</h2>
