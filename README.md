@@ -17,16 +17,16 @@
 
 <h2>:speech_balloon:Мои контакты:</h2>
 &nbsp;
-<a href='https://t.me/A1exandrGer' target='_blank>
-<img src='./icons/Telegram.png' width ='30px'>
+<a href='https://t.me/A1exandrGer' target='_blank' text-decoration='none'>
+<img src='./icons/Telegram.png' width ='40px'>
 </a>
 &nbsp;
-<a href='https://vk.com/id68199797' target='_blank'>
-<img src='./icons/Vk.png' width ='30px'>
+<a href='https://vk.com/id68199797' target='_blank' text-decoration='none'>
+<img src='./icons/Vk.png' width ='40px'>
 </a>
 &nbsp;
-<a href='mailto:sashagerasimov55@gmail.com' target='_blank'>
-<img src='./icons/Gmail.png' width ='30px'>
+<a href='mailto:sashagerasimov55@gmail.com' target='_blank' text-decoration='none'>
+<img src='./icons/Gmail.png' width ='40px'>
 </a>
 
 
