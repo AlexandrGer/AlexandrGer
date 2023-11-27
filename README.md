@@ -19,7 +19,7 @@
   
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 <a href='https://t.me/A1exandrGer'>
-<img src='./icons/Telegram.png'>
+<img src='./icons/Telegram.png' width ='30px'>
 </a>
 
 
