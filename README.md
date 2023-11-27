@@ -16,14 +16,16 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <h2>:speech_balloon:Мои контакты:</h2>
-
-<a href='https://t.me/A1exandrGer'>
+&nbsp;
+<a href='https://t.me/A1exandrGer' target='_blank>
 <img src='./icons/Telegram.png' width ='30px'>
 </a>
-<a href='https://vk.com/id68199797'>
+&nbsp;
+<a href='https://vk.com/id68199797' target='_blank'>
 <img src='./icons/Vk.png' width ='30px'>
 </a>
-<a href='mailto:sashagerasimov55@gmail.com'>
+&nbsp;
+<a href='mailto:sashagerasimov55@gmail.com' target='_blank'>
 <img src='./icons/Gmail.png' width ='30px'>
 </a>
 
