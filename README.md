@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<h2>:speech_balloon:Мои контакты:</h2>
+<h2>:speech_balloon: Мои контакты:</h2>
 &nbsp;
 <a href='https://t.me/A1exandrGer' target='_blank' text-decoration='none'>
 <img src='./icons/Telegram.png' width ='40px'>
@@ -30,7 +30,7 @@
 </a>
 
 
-<h2>:fire:Немного статистики о моём GitHub:</h2>
+<h2>:fire: Немного статистики о моём GitHub:</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandrGer)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrGer)](https://github.com/AlexandrGer/github-readme-stats)
